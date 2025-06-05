@@ -121,7 +121,7 @@ const perguntas = [
     correta: "b"
   },
   {
-    pergunta: "1-Como o cidadão pode colaborar para evitar enchentes?",
+    pergunta: "10-Como o cidadão pode colaborar para evitar enchentes?",
     respostas: {
       a: "Jogando lixo na rua",
       b: "Construindo em encostas",
