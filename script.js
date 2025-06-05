@@ -1,9 +1,9 @@
-// ========== MENU HAMBÚRGUER ==========
+//  MENU HAMBÚRGUER 
 document.getElementById("menu-toggle").addEventListener("click", () => {
   document.getElementById("menu").classList.toggle("active");
 });
 
-// ========== TEMA ==========
+// TEMA 
 document.querySelectorAll(".theme-icon").forEach(icon => {
   icon.addEventListener("click", () => {
     const theme = icon.dataset.theme;
@@ -20,7 +20,7 @@ document.querySelectorAll(".theme-icon").forEach(icon => {
   });
 });
 
-// ========== SLIDESHOW ==========
+// SLIDESHOW 
 let slideIndex = 0;
 const slides = document.querySelectorAll(".slide");
 setInterval(() => {
@@ -28,7 +28,7 @@ setInterval(() => {
   slideIndex = (slideIndex + 1) % slides.length;
 }, 3000);
 
-// ========== QUIZ ==========
+// QUIZ 
 const perguntas = [
   {
     pergunta: "O que causa enchentes na cidade?",
