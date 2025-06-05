@@ -37,7 +37,6 @@ O **Pluvius Quiz** é uma aplicação web que:
 
 ## 📚 Membros
 
--João Lucas RM:562608
--Rodrigo dos Santos Abubakir RM:561479 
--Samuel de Oliveira da Silva RM:566244
-
+- João Lucas RM:562608
+- Rodrigo dos Santos Abubakir RM:561479
+- Samuel de Oliveira da Silva RM:566244
