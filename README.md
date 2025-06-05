@@ -34,3 +34,10 @@ O **Pluvius Quiz** é uma aplicação web que:
 ✅ Perguntas dinâmicas com cálculo de acertos  
 ✅ Feedback visual com cores nas respostas  
 ✅ Layout adaptado para mobile  
+
+## 📚 Membros
+
+-João Lucas RM:562608
+-Rodrigo dos Santos Abubakir RM:561479 
+-Samuel de Oliveira da Silva RM:566244
+
