@@ -31,7 +31,7 @@ setInterval(() => {
 // QUIZ 
 const perguntas = [
   {
-    pergunta: "O que causa enchentes na cidade?",
+    pergunta: "1-O que causa enchentes na cidade?",
     respostas: {
       a: "Chuvas intensas e má drenagem",
       b: "Secas prolongadas",
@@ -41,7 +41,7 @@ const perguntas = [
     correta: "a"
   },
   {
-    pergunta: "Qual tecnologia ajuda no monitoramento de enchentes?",
+    pergunta: "2-Qual tecnologia ajuda no monitoramento de enchentes?",
     respostas: {
       a: "Sensores IoT",
       b: "Impressoras 3D",
@@ -51,7 +51,7 @@ const perguntas = [
     correta: "a"
   },
   {
-    pergunta: "O que devemos fazer ao receber um alerta de enchente?",
+    pergunta: "3-O que devemos fazer ao receber um alerta de enchente?",
     respostas: {
       a: "Ignorar o alerta",
       b: "Evacuar a área imediatamente",
@@ -61,7 +61,7 @@ const perguntas = [
     correta: "b"
   },
   {
-    pergunta: "Como a impermeabilização do solo contribui para enchentes?",
+    pergunta: "4-Como a impermeabilização do solo contribui para enchentes?",
     respostas: {
       a: "Facilita a drenagem",
       b: "Evita alagamentos",
@@ -71,7 +71,7 @@ const perguntas = [
     correta: "c"
   },
   {
-    pergunta: "Qual é uma medida preventiva contra enchentes?",
+    pergunta: "5-Qual é uma medida preventiva contra enchentes?",
     respostas: {
       a: "Desmatamento",
       b: "Construção em áreas de risco",
@@ -81,7 +81,7 @@ const perguntas = [
     correta: "c"
   },
   {
-    pergunta: "O que pode piorar os efeitos das enchentes?",
+    pergunta: "6-O que pode piorar os efeitos das enchentes?",
     respostas: {
       a: "Sistema de drenagem eficiente",
       b: "Educação ambiental",
@@ -91,7 +91,7 @@ const perguntas = [
     correta: "c"
   },
   {
-    pergunta: "Qual profissional atua na prevenção de enchentes?",
+    pergunta: "7-Qual profissional atua na prevenção de enchentes?",
     respostas: {
       a: "Engenheiro civil",
       b: "Ator",
@@ -101,7 +101,7 @@ const perguntas = [
     correta: "a"
   },
   {
-    pergunta: "O que é uma bacia hidrográfica?",
+    pergunta: "8-O que é uma bacia hidrográfica?",
     respostas: {
       a: "Região sem água",
       b: "Área que capta e escoa água da chuva para um rio",
@@ -111,7 +111,7 @@ const perguntas = [
     correta: "b"
   },
   {
-    pergunta: "Qual é o papel da vegetação nas margens dos rios?",
+    pergunta: "9-Qual é o papel da vegetação nas margens dos rios?",
     respostas: {
       a: "Aumentar o fluxo de água",
       b: "Evitar erosões e enchentes",
@@ -121,7 +121,7 @@ const perguntas = [
     correta: "b"
   },
   {
-    pergunta: "Como o cidadão pode colaborar para evitar enchentes?",
+    pergunta: "1-Como o cidadão pode colaborar para evitar enchentes?",
     respostas: {
       a: "Jogando lixo na rua",
       b: "Construindo em encostas",
